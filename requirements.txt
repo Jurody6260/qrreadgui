@@ -1,0 +1,11 @@
+colorama==0.4.4
+greenlet==1.1.0
+importlib-metadata==4.4.0
+numpy==1.20.3
+opencv-python==4.5.2.52
+PyJWT==2.1.0
+qrcode==6.1
+six==1.16.0
+SQLAlchemy==1.4.17
+typing-extensions==3.10.0.0
+zipp==3.4.1
